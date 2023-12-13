@@ -1,0 +1,8 @@
+doctype: html
+lang: en
+head:
+  charset: UTF-8
+  viewport: width=device-width, initial-scale=1.0
+  title: Simple Web Project
+body:
+  heading: Hello, World!
